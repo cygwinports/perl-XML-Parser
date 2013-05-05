@@ -1,0 +1,9 @@
+CPAN_AUTHOR="toddr"
+inherit perl
+
+NAME="perl-XML-Parser"
+VERSION=2.41
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl interface for Expat"
+DESCRIPTION="This is a Perl extension interface to James Clark's XML parser."
